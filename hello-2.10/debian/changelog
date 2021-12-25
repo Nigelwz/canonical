@@ -1,3 +1,10 @@
+hello (2.10-2ubuntu4) impish; urgency=medium
+
+  * Add testing.sh to source code location.
+  * When run "dpkg -i **.deb", it can show "this is a test from Nigel Wang".
+
+ -- nigel <nigel@nigel-VirtualBox>  Sat, 25 Dec 2021 16:02:49 +0800
+
 hello (2.10-2ubuntu3) impish; urgency=medium
 
   * Ubuntu Impish will be switching default dpkg compression format to
